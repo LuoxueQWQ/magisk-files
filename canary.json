@@ -2,10 +2,10 @@
   "magisk": {
     "version": "R6687BB53-kitsune",
     "versionCode": "27001",
-    "link": "https://github.com/LuoxueQWQ/magisk-files/blob/master/app-release.apk"
+    "link": "https://github.com/LuoxueQWQ/magisk-files/raw/master/app-release.apk"
   },
   "stub": {
     "versionCode": "38",
-    "link": "https://github.com/LuoxueQWQ/magisk-files/blob/master/stub-release.apk"
+    "link": "https://github.com/LuoxueQWQ/magisk-files/raw/master/stub-release.apk"
   }
 }
